@@ -5,7 +5,7 @@ We were inspired by Cool Math Games because we love arcade games and most of the
 North Arcadia is a collection of classic arcade games with an anime inspired twist. Our featured games include:
 <br>--Bulbasaur Adventure - a Pokemon themed Chrome Dino game 
 <br>--Flappy Happy - essentially Flappy Bird 
-<br>--Haikyuu Pong - single player Pong </br>
+<br>--Haikyuu Pong - single player Pong 
 <br>--My Snake Academia - it’s just Snake </br>
 We decided on a minimalist website design, which also features a dark mode.
 
@@ -32,6 +32,6 @@ Earlier in our brainstorming stage, we thought of adding a multiplayer option to
 
 <h2> CITATIONS </h2>
 https://codepen.io/FlorinPop17/pen/XWWZYYG
-https://www.youtube.com/watch?v=9cKsq14Kfsw&t=320s&ab_channel=DrewRyan
-https://www.w3schools.com/howto/howto_css_flip_image.asp
-https://dev.to/albertomontalesi/add-dark-mode-to-your-website-with-just-a-few-lines-of-code-5baf 
+<br>https://www.youtube.com/watch?v=9cKsq14Kfsw&t=320s&ab_channel=DrewRyan
+<br>https://www.w3schools.com/howto/howto_css_flip_image.asp
+<br>https://dev.to/albertomontalesi/add-dark-mode-to-your-website-with-just-a-few-lines-of-code-5baf 
