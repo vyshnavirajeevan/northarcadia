@@ -28,3 +28,8 @@ What's next for North Arcadia
 There are a few bugs we didn’t get around to fix (e.g. the dark/light mode toggle storing states in the gallery page but not in other pages, sizing issues of the games), so we would like to fix these in the future. We’d also like to add on to our current games to improve their quality and add new ‘old’ games and remake them in our own way.
 
 Earlier in our brainstorming stage, we thought of adding a multiplayer option to all our games (maybe using Node), so in the future we’d like to add this feature.
+
+
+
+CITATIONS
+https://dev.to/albertomontalesi/add-dark-mode-to-your-website-with-just-a-few-lines-of-code-5baf 
