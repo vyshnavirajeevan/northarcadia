@@ -1,4 +1,3 @@
-// citation: https://dev.to/albertomontalesi/add-dark-mode-to-your-website-with-just-a-few-lines-of-code-5baf 
 window.onload=function(){
   const checkbox = document.getElementById('checkbox');
 
