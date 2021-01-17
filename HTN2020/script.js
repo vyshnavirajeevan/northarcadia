@@ -15,7 +15,9 @@ function returnGallery() {
     window.location.replace("gallery.html");
 }
 
-//jquery checkbox
+/*jquery checkbox 
+  reference: https://www.sitepoint.com/quick-tip-persist-checkbox-checked-state-after-page-reload/
+*/
 var checkboxValues = JSON.parse(localStorage.getItem('checkboxValues')) || {};
 var $checkboxes = $("#checkbox:checkbox");
 
