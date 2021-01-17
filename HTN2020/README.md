@@ -7,7 +7,7 @@ North Arcadia is a collection of classic arcade games with an anime inspired twi
 <br>--Flappy Happy - essentially Flappy Bird 
 <br>--Haikyuu Pong - single player Pong 
 <br>--My Snake Academia - it’s just Snake </br>
-We decided on a minimalist website design, which also features a dark mode.
+<br>We decided on a minimalist website design, which also features a dark mode.
 
 <h2> How we built it </h2>
 We created our site from scratch using HTML and CSS, and used Bootstrap to format and align the features. In addition, we brought our games to life using JavaScript, as well as the p5.js library to create graphics and implement smooth user interaction. We coded using a variety of platforms, some of which included Glitch, a p5.js editor, and finally Repl.it to combine our creations together. We included a cartoon/anime twist on it to make it more personal for us, as it’s something we all enjoy.
