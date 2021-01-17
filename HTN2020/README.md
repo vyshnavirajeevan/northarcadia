@@ -15,7 +15,7 @@ We created our site from scratch using HTML and CSS, and used Bootstrap to forma
 <h2> Challenges we ran into </h2>
 On the website side, we had many difficulties figuring out the dark mode feature (specifically how to store the states after a page reload). This was also our first time using Bootstrap and jQuery, so we had to research these two libraries. Another challenge we faced was formatting multiple elements within a page.
 
-On the games side, we also ran into little issues that caused us glitches such as one side not completely working in the pong game, and implementing a retry/restart button on the birds game. We had some trouble with graphics as well.
+<br>On the games side, we also ran into little issues that caused us glitches such as one side not completely working in the pong game, and implementing a retry/restart button on the birds game. We had some trouble with graphics as well.
 
 <h2> Accomplishments that we're proud of </h2>
 We’re really happy that we managed to create a clean website with fully functional games in less than 36 hours! We’re also proud of the fact that we tried new things during this hackathon, even though we may not have had any experience or knowledge in the languages/libraries/design.
@@ -26,7 +26,7 @@ We were able to improve our frontend skills and learn to communicate more effect
 <h2> What's next for North Arcadia </h2>
 There are a few bugs we didn’t get around to fix (e.g. the dark/light mode toggle storing states in the gallery page but not in other pages, sizing issues of the games), so we would like to fix these in the future. We’d also like to add on to our current games to improve their quality and add new ‘old’ games and remake them in our own way.
 
-Earlier in our brainstorming stage, we thought of adding a multiplayer option to all our games (maybe using Node), so in the future we’d like to add this feature.
+<br>Earlier in our brainstorming stage, we thought of adding a multiplayer option to all our games (maybe using Node), so in the future we’d like to add this feature.
 
 
 
