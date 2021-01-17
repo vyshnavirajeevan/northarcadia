@@ -3,6 +3,8 @@
           mouseX, mouseY, strokeWeight, line, mouseIsPressed, windowWidth, windowHeight, noStroke, 
           keyCode, UP_ARROW, LEFT_ARROW, RIGHT_ARROW, DOWN_ARROW, textSize frameCount noLoop,loop*/
 
+//credits for the original code go to https://glitch.com/~cssi-day-13-flappy-bird
+
 let backgroundColor, lives, score, happy;
 
 var pipes = [];
