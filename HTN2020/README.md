@@ -3,8 +3,8 @@ We were inspired by Cool Math Games because we love arcade games and most of the
 
 <h2> What it does </h2>
 North Arcadia is a collection of classic arcade games with an anime inspired twist. Our featured games include:
-<br>--Bulbasaur Adventure - a Pokemon themed Chrome Dino game </br>
-<br>--Flappy Happy - essentially Flappy Bird </br>
+<br>--Bulbasaur Adventure - a Pokemon themed Chrome Dino game 
+<br>--Flappy Happy - essentially Flappy Bird 
 <br>--Haikyuu Pong - single player Pong </br>
 <br>--My Snake Academia - it’s just Snake </br>
 We decided on a minimalist website design, which also features a dark mode.
