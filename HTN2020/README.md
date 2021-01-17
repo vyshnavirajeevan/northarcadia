@@ -1,4 +1,4 @@
-Inspiration
+<h4> Inspiration </h4>
 We were inspired by Cool Math Games because we love arcade games and most of the members on our team are pretty experienced with creating games. In addition, one thing we all weirdly had in common was that we’re all somewhat into anime so we decided to create classic games that were anime-themed.
 
 What it does
