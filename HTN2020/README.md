@@ -5,9 +5,14 @@ What it does
 North Arcadia is a collection of classic arcade games with an anime inspired twist. Our featured games include:
 
 Bulbasaur Adventure - a Pokemon themed Chrome Dino game
+
 Flappy Happy - essentially Flappy Bird
+
 Haikyuu Pong - single player Pong
+
 My Snake Academia - it’s just Snake
+
+
 We decided on a minimalist website design, which also features a dark mode.
 
 How we built it
@@ -34,4 +39,5 @@ Earlier in our brainstorming stage, we thought of adding a multiplayer option to
 CITATIONS
 
 https://codepen.io/FlorinPop17/pen/XWWZYYG
+
 https://dev.to/albertomontalesi/add-dark-mode-to-your-website-with-just-a-few-lines-of-code-5baf 
